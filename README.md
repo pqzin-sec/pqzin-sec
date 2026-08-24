@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/pqzin-sec">
-  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=pqzin-sec&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pqzin-sec&layout=compact&langs_count=7&theme=radical"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=pqzin-sec&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs?username=pqzin-sec&langs_count=10&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
